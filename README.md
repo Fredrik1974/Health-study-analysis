@@ -1,6 +1,8 @@
 # Health-study-analysis
 Individuell inlämningsuppgift i Python och statistisk dataanalys.
 
+**Python-version:** 3.14
+
 Uppgiften innehåller analys av hälsodata med hjälp av Pandas, NumPy, Matplotlib och SciPy.
 
 Del 1: Beskrivande statistik, datavisualisering, simulering, konfidensintervall och hypotesprövning.
